@@ -1,0 +1,36 @@
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	FUCKING BRUTE FORCE THE SOLUTION FIRST, OTHERWISE YOU WONT EVEN BE ABLE TO SOLVE ONE PROBLEM!!
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. Swap Problems && Flipping bits problems:
+
+A swap can be a direct swap or it can be an indirect swap. Indirect swap is using an element as a mediator. (A,B) swap A with t and t with B.
+
+If you want to make two strings equal by flipping bits , everytime you want to make a desired character , use a character in between flip with it and again flip. (A')' = A rule.
+
+2. Greedy Problems :
+
+If something is fixed , then dont touch it if you want to minimize the operations / the cost.
+
+3. Bracket problems : 
+
+They always use a stack.
+
+4. Number theory :
+ n = 2^p1.3^p2.5^p3.7^p4.11^p5.......
+
+5. Bitonic array :
+	1.)if you want to sort an array by removing the ends of an array greedily.
+
+6. If you want to print an alternating sequence of elements like a pendulum form , just print reversed even indices elements and then odd indices elements.
+
+7. Divisibility problems :
+
+Try to think of modulo , groups numbers by modulo (a+b)modm = (amodm + bmodm)modm
+
+8. Modifying a number to reach another number using some operations:
+	
+If question is about changing n -> m using operations like *2 and -1, think also about changing m->n using reverse operations, /2 and +1.
+
+
+
+
